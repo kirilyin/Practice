@@ -1,0 +1,7 @@
+в папке build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/
+вида:
+"
+Keyboard|Electronics|50
+Mouse|Electronics|30
+Chair|Furniture|120
+"
